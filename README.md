@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @sasospanner
-- 👀 I’m interested in Learning new languages
-- 🌱 I’m currently learning Golang to help the MHFz community.
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me: By Discord (spanner#9285
+- 📫 How to reach me: By Discord (spanner)
 
 <!---
 sasospanner/sasospanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
